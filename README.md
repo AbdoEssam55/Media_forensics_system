@@ -453,11 +453,12 @@ Contributions welcome! Please:
 4. Push to branch (`git push origin feature/amazing-feature`)
 5. Open Pull Request
 
-## Author
+##  Author
+
 Abdelrahman Essam
-- GitHub: @AbdoEssam55
+- GitHub: [@AbdoEssam55](https://github.com/AbdoEssam55)
 - Email: essamabdelrahman558@gmail.com
-- LinkedIn: @Abdelrahman Essam
+- LinkedIn: [@Abdelrahman Essam](https://www.linkedin.com/in/abdelrahman-essam-01b99b220/)
 
 ## Acknowledgments
 
